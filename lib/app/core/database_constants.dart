@@ -1,0 +1,20 @@
+const String kGames = 'games';
+const String kId = 'id';
+const String kTitle = 'title';
+const String kGenre = 'genre';
+const String kNamePlatform = 'namePlatform';
+const String kIdConsole = 'idConsole';
+const String kConsoles = 'consoles';
+const String kGameState = 'gameState';
+const String kUrlImage = 'urlImage';
+const String kStartDate = 'startDate';
+const String kCompletionDate = 'completionDate';
+const String kIsFinished = 'isFinished';
+const String kRating = 'rating';
+const String kNotes = 'notes';
+const String kName = 'name';
+const String kReleased = 'released';
+const String kPlatforms = 'platforms';
+const String kPlaytime = 'playtime';
+const String kBackgroundImage = 'background_image';
+

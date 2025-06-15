@@ -1,0 +1,11 @@
+import 'package:jogos_zerados/app/domain/entities/console_entity.dart';
+import 'package:jogos_zerados/app/domain/repositories/console_repository.dart';
+import 'package:jogos_zerados/app/injector.dart';
+
+class FetchConsolesUseCase {
+  final repository = injector.get<ConsoleRepository>();
+
+  Future<List<Console>> call() async {
+    return await repository.fetch();
+  }
+}

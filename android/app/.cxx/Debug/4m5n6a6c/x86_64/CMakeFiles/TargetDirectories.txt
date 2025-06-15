@@ -1,0 +1,2 @@
+C:/Projetos Flutter/jogos_zerados/android/app/.cxx/Debug/4m5n6a6c/x86_64/CMakeFiles/edit_cache.dir
+C:/Projetos Flutter/jogos_zerados/android/app/.cxx/Debug/4m5n6a6c/x86_64/CMakeFiles/rebuild_cache.dir
